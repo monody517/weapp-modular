@@ -1,0 +1,1 @@
+# 修复taro小程序plugin动态修改app.config后无法生效问题
