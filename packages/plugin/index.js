@@ -3,7 +3,7 @@ const path = require('path');
 const findNodeModules = require('find-node-modules');
 const {printLog, processTypeEnum} = require('@tarojs/helper');
 
-const TAG = require('./package.json').name;
+const TAG = require('../../package.json').name;
 
 const COMMON_MODULAR_TEXT = '';
 const PACKAGE_PREFIX = 'weapp-modular';
